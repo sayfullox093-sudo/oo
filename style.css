@@ -1,0 +1,263 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+list-style: none;
+}
+.container{
+    margin: 0 auto;
+    padding-left:  50px;
+   padding-top: 0;
+   padding-right: 50px;
+}
+.header{
+    width: 1440px;
+    background-color: #f3d7b7;
+}
+.nav{
+    width: 100%;
+    padding: 22px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav ul{
+    display: flex;
+    gap: 40px;
+}
+.text-h1{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    color: #000000 ;
+    padding-top: 130px;
+}
+.text-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    padding-top: 47px;
+}
+.btn{
+    width: 193px;
+    height: 51px;
+    background-color: #0A775F;
+    color: #FFFFFF;
+    padding: 0 auto;
+    border-radius: 100px;
+    margin-top: 47px;
+}
+.im1{
+    width: 160px;
+    height: 160px;
+    padding-top: 70px;
+   
+}
+.img1:hover{
+    transform: rotate(25deg);
+   
+}
+.img2{
+    width: 710px;
+    height: 694px;
+     display: flex;
+     justify-content: flex-end;
+    padding-top: 10px;
+    padding-left: 116px;
+transform:translateY(50px)
+   
+}
+
+.header-content{
+    display: flex;
+    gap: 200px;
+}
+
+.section{
+    width: 1440px;
+    background-color: #FFFFFF;
+}
+.our{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 100%;
+    text-align: center;
+    padding-top: 108px;
+}
+.orta-h1{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 100%;
+    padding-left: 117px;
+    padding-top: 121px;
+}
+.orta-h2{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 100%;
+    padding-left: 320px;
+    padding-top: 121px;
+}
+.card{
+    
+    display: flex;
+flex-wrap: wrap;
+padding-top: 30px;
+align-items: center;
+align-content: center;
+}
+.orta-p{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+    padding-top: 10px;
+    padding-left: 117px;
+
+}
+.orta-p2{
+      font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+    padding-top: 10px;
+    padding-left: 320px;
+}
+.karta{
+padding: 120px 0;
+}
+.footer{
+    width: 1440px;
+    height: 160px;
+    background-color: #F3D7B7;
+    margin-bottom: 20px;
+}
+.nav2{
+       width: 100%;
+    padding: 62px 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav2 ul{
+    display: flex;
+    gap: 30px;
+}
+.kartochki{
+    display: flex;
+    gap: 300px;
+    padding-top: 160px;
+}
+.ou{
+font-weight: 700;
+font-size: 48px;
+line-height: 100%;
+}
+.we{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    padding-top: 64px;
+    padding-bottom: 216px;
+}
+.un{
+    padding-top: 109px;
+   color: #FFFFFF;
+    font-size: 50px;
+    line-height: 100%;
+}
+.al{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-top: 28px;
+}
+.section22{
+    width: 1440px;
+    height: 510px;
+    background-color: #C99B67;
+   
+}
+.ikki{
+    display: flex;
+    gap: 150px;
+}
+.imgend{
+transform: translateY(-60px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
